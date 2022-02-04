@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  body: MyText
+  start_time: 
+  title: MyString
+
+two:
+  body: MyText
+  start_time: 
+  title: MyString
